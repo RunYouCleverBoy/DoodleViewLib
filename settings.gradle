@@ -1,0 +1,3 @@
+rootProject.name='Doodle board'
+include ':app'
+include ':doodlelib'

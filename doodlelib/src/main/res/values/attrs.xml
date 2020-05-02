@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DoodleView">
+        <attr name="inkColour" format="color" />
+        <attr name="strokeSize" format="dimension" />
+    </declare-styleable>
+</resources>

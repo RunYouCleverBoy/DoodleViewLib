@@ -1,2 +1,2 @@
-# DoodleViewLib
-A doodle view/Scratch pad View for Android.
+# DoodleView
+Simple doodle view for Android
