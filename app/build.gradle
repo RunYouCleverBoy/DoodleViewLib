@@ -10,8 +10,8 @@ android {
         applicationId "com.rycbar.doodleboard"
         minSdkVersion 21
         targetSdkVersion 29
-        versionCode 103
-        versionName "1.0.3"
+        versionCode 104
+        versionName "1.0.4"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -35,5 +35,6 @@ dependencies {
     testImplementation 'junit:junit:4.13'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
-    implementation 'com.github.RunYouCleverBoy:DoodleViewLib:1.0.3'
+//    implementation 'com.github.RunYouCleverBoy:DoodleViewLib:1.0.4'
+    implementation project(path: ':doodlelib')
 }

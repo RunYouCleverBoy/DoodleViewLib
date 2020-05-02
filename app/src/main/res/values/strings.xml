@@ -3,4 +3,5 @@
     <string name="cleanButton">Clean button</string>
     <string name="harvestBitmap">harvest bitmap</string>
     <string name="postView">Post-view</string>
+    <string name="reloadButton">Reload button</string>
 </resources>
